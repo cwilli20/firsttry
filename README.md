@@ -69,14 +69,14 @@
 
 </br>
 
-<footer id= "footer"> 
+
 
 
 
 <p>Web Design by Connor Williams</p>
 <p><a href="mailto:cwilli20@uvm.edu">Email Me</a></p>
 
-	</footer>
+
 
 </body>
 
