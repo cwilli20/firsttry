@@ -71,33 +71,6 @@
 
 <footer id= "footer"> 
 
-	<script type="text/javascript">
-<!--
-
-now = new Date
-//define a date variable, its initial value is today's date (on the client computer)
-document.write("<p>Date: ");
-document.write(now.getMonth()+1);
-document.write("/");
-document.write(now.getDate());
-document.write("/");
-document.write(now.getFullYear());
-document.write("</p>");
-
-// NOTE now is being used from above. You only need one variable for both date and time
-document.write("<p>Time: ");
-document.write(now.getHours());
-document.write(":");
-if (now.getMinutes()<=9){
-	document.write("0" + now.getMinutes());
-}
-else {
-	document.write(now.getMinutes());
-}
-document.write("</p>");
-
-//-->
-</script>
 
 
 <p>Web Design by Connor Williams</p>
